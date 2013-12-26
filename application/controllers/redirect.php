@@ -8,7 +8,8 @@ class Redirect extends CI_Controller {
 		
 		if($result === null)
 		{
-			$this->load->view('notfound');
+			$this->load->helper('url');
+			$this->load->view('notfound', compact('code'));
 		}
 		else
 		{

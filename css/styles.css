@@ -1,7 +1,10 @@
 h1{
 	padding: 48px 12px;
-	color: #fff;
 	font-size: 200%;
+}
+
+h1.logo{
+	color: #fff;
 }
 
 h2{

@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="css/styles.css" type="text/css">
 </head>
 <body>
-	<h1 class="gradient2">URL Shortener</h1>
+	<h1 class="gradient2 logo">URL Shortener</h1>
 
 	<div id="body">
 		<form method="POST">
